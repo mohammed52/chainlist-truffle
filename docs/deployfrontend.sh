@@ -1,0 +1,1 @@
+rsync -r src/ docs/
